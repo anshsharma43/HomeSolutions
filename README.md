@@ -5,7 +5,7 @@
 
 #### What is used?
 - PHP7, MySQL
-- HTML, Bootstrap(Theme is from [Bootswatch](https://bootswatch.com)), Jquery
+- HTML, Bootstrap, Jquery
 
 #### Login Info
 - Admin:
