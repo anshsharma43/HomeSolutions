@@ -9,7 +9,7 @@
 
 #### Login Info
 - Admin:
-  - Mobile No.: 7070808080
+  - Mobile No.: 1234567890
   - Password  : admin123
 - Providers:
     - No Providers are registered by default use register screen to create
