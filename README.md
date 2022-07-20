@@ -17,9 +17,8 @@
 
 
 ## Features
-- Search for professionals for plumbing, mobile repaires, etc. in your city.
+- Search for home cleaning professionals, plumbing, electricians in your city.
 - Register as service provider. Update providers information and password
-  through.
-  Providers Login.
+  through Providers Login.
 - Admin can see and manage bookings.
 - Admin can see and manage providers.
